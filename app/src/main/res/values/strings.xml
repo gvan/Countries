@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="ga">%1$s ha</string>
+    <string name="search">Search</string>
+    <string name="empty_list">Empty list</string>
+    <string name="search_hint">Country, capital or region</string>
+
+    <string name="rapidapi_key">a2c7be60b4mshced27811790485fp152edbjsn105442cd7b16</string>
+    <string name="google_maps_api_key">AIzaSyBh1EwvVSdqW4BrutWt2R3eCGIpObY6iGA</string>
+
+</resources>

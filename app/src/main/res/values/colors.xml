@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_smoke">#F5F5F5</color>
+    <color name="lt_gray">#eeeeee</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="dk_gray">#7F7F7F</color>
+    <color name="text">#050505</color>
+    <color name="red">#FF3333</color>
+
+</resources>
